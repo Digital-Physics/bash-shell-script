@@ -54,3 +54,9 @@ tar for archiving directories
 
 other commands too: https://www.youtube.com/watch?v=LKCVKw9CzFo
 
+
+Currently working though the [bandit problems](https://overthewire.org/wargames/bandit/bandit0.html) but I won't be posting spoilers.
+
+Going to write terminal commands in another markdown file commands.md in this directory as I use them.
+
+
